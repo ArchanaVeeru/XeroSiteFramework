@@ -2,9 +2,9 @@
 
 <suite name="XeroTesting">
 
-<!--  	<listeners>
+  	<listeners>
 		<listener class-name="com.qa.xero.Utilities.ReportTest"/>
-	</listeners>	-->
+	</listeners>	
 
 <!-- 	<test name="XeroSite Framework">
 	<parameter name="browser" value="firefox"></parameter>

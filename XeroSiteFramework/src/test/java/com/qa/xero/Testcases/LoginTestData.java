@@ -37,17 +37,17 @@ public class LoginTestData extends TestBase {
 			  login.logout();
 		  }
 		  
-//		 String title=driver.getTitle();
-//		 if(title.equals("Xero | Dashboard | Nothing")) {
-//			Assert.assertTrue(true);
-//			logger.info("login successful");
-//		 }
-//		 else
-//		 {
-//			// captureScreen(driver,"logIn");
-//			 Assert.assertTrue(false);
-//			 logger.info("login failed");
-//		 }
+		 String title=driver.getTitle();
+		 if(title.equals("Xero | Dashboard | Nothing")) {
+			Assert.assertTrue(true);
+			logger.info("login successful");
+		 }
+		 else
+		 {
+			captureScreen(driver,"logIn");
+			 Assert.assertTrue(false);
+			 logger.info("login failed");
+		 }
 		 //Assert.assertEquals(title,"Xero | Dashboard | Nothing","assert failed");
 	  }
 	 @DataProvider
