@@ -53,13 +53,15 @@ public class ReportTest extends TestListenerAdapter{
   public void onTestSuccess(ITestResult result) {
 	  
 	  test=extent.createTest(result.getName());
-	  test.log(Status.PASS,MarkupHelper.createLabel(result.getName(),ExtentColor.GREEN));
+	  test.log(Status.PASS,"result is "+result.getName());
+	 // test.log(Status.PASS,MarkupHelper.createLabel(result.getName(),ExtentColor.GREEN));
 	  
 	  
   }
   public void onTestFailure(ITestResult result) {
 	  test=extent.createTest(result.getName());
-	  test.log(Status.FAIL,MarkupHelper.createLabel(result.getName(),ExtentColor.RED));
+	  test.log(Status.FAIL,"result is "+result.getName());
+	  //test.log(Status.FAIL,MarkupHelper.createLabel(result.getName(),ExtentColor.RED));
 	 // base.captureScreen(driver, result.getClass());
 	 // System.out.println("name is "+result.getName());
 	  //String screen=
@@ -83,7 +85,7 @@ public class ReportTest extends TestListenerAdapter{
   }
   public void onTestSkipped(ITestResult result) {
 	  test=extent.createTest(result.getName());
-	  test.log(Status.SKIP,MarkupHelper.createLabel(result.getName(),ExtentColor.ORANGE));
+	  test.log(Status.SKIP,"result is "+result.getName());
 	  
   }
   public void onFinish(ITestContext context)
