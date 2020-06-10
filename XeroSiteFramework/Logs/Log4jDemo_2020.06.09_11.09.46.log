@@ -1,0 +1,5 @@
+2020-06-09 11:10:11 INFO  xerosite:65 - opening browser
+2020-06-09 11:10:18 INFO  xerosite:14 - clicking on forgot password
+2020-06-09 11:10:18 INFO  xerosite:16 - entering email
+2020-06-09 11:10:19 INFO  xerosite:18 - clicking on link
+2020-06-09 11:10:19 INFO  xerosite:23 - email link sent to reset password

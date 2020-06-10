@@ -1,0 +1,29 @@
+2020-06-08 16:17:21 INFO  xerosite:65 - opening browser
+2020-06-08 16:18:02 INFO  xerosite:20 - entering username and password
+2020-06-08 16:18:09 INFO  xerosite:24 - submitted
+2020-06-08 16:19:02 DEBUG cache:44 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-06-08 16:19:02 DEBUG cache:44 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en_US.ftl"): Not found
+2020-06-08 16:19:02 DEBUG cache:44 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2020-06-08 16:19:02 DEBUG cache:44 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2020-06-08 16:19:02 DEBUG cache:44 - Loading template for "v3html/v3-html-index.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ArchanaVeeru/.m2/repository/com/aventstack/extentreports/4.1.6/extentreports-4.1.6.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2020-06-08 16:19:09 DEBUG cache:44 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-06-08 16:19:09 DEBUG cache:44 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2020-06-08 16:19:09 DEBUG cache:44 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2020-06-08 16:19:10 DEBUG cache:44 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2020-06-08 16:19:10 DEBUG cache:44 - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ArchanaVeeru/.m2/repository/com/aventstack/extentreports/4.1.6/extentreports-4.1.6.jar!/com/aventstack/extentreports/view/commons/commons-variables.ftl"
+2020-06-08 16:19:13 DEBUG cache:44 - "commons/commons-variables.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-06-08 16:19:13 DEBUG cache:44 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-06-08 16:19:13 DEBUG cache:44 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en_US.ftl"): Not found
+2020-06-08 16:19:13 DEBUG cache:44 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2020-06-08 16:19:13 DEBUG cache:44 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2020-06-08 16:19:13 DEBUG cache:44 - Loading template for "v3html/v3-html-head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ArchanaVeeru/.m2/repository/com/aventstack/extentreports/4.1.6/extentreports-4.1.6.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2020-06-08 16:19:13 DEBUG cache:44 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-06-08 16:19:13 DEBUG cache:44 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en_US.ftl"): Not found
+2020-06-08 16:19:13 DEBUG cache:44 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2020-06-08 16:19:13 DEBUG cache:44 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2020-06-08 16:19:13 DEBUG cache:44 - Loading template for "v3html/v3-html-nav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ArchanaVeeru/.m2/repository/com/aventstack/extentreports/4.1.6/extentreports-4.1.6.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2020-06-08 16:19:14 DEBUG cache:44 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-06-08 16:19:14 DEBUG cache:44 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en_US.ftl"): Not found
+2020-06-08 16:19:14 DEBUG cache:44 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2020-06-08 16:19:14 DEBUG cache:44 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2020-06-08 16:19:14 DEBUG cache:44 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ArchanaVeeru/.m2/repository/com/aventstack/extentreports/4.1.6/extentreports-4.1.6.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"

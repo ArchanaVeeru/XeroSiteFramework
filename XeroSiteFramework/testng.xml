@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="XeroTesting">
+
+<!--  	<listeners>
+		<listener class-name="com.qa.xero.Utilities.ReportTest"/>
+	</listeners>	-->
+
+<!-- 	<test name="XeroSite Framework">
+	<parameter name="browser" value="firefox"></parameter>
+		<classes>
+			<class name="com.qa.xero.Testcases.LoginTest"></class>
+		</classes>
+	
+	</test> -->
+	<test name="XeroSite Framework">
+	<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="com.qa.xero.Testcases.SignupTest"></class>
+		</classes>
+	
+	</test>
+	<test name="XeroSite Framework1">
+	<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="com.qa.xero.Testcases.LoginTest"></class>
+		</classes>
+	
+	</test>
+	<test name="XeroSite Framework2">
+	<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="com.qa.xero.Testcases.LoginTestData"></class>
+		</classes>
+	
+	</test>
+	<test name="XeroSite Framework3">
+	<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="com.qa.xero.Testcases.ForgotPwdTest"></class>
+		</classes>
+	
+	</test>
+
+</suite>
