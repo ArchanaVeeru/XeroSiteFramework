@@ -16,7 +16,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   
-  <repositories>
+<!--    <repositories>
   	<repository>
   		<id>com.sikulix</id>
   		<name>com.sikulix</name>
@@ -27,7 +27,7 @@
   			<updatePolicy>always</updatePolicy>
   		</snapshots>
   	</repository>
-  </repositories>
+  </repositories> -->
    <build>
  	<plugins>
 		<plugin>
